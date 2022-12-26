@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Western Chime](https://github.com/stetsonharding/western-chime)
 
-- 👨‍💻 Check out my personal portfolio at [stetsonharding.com]([stetsonharding.com](https://stetsonharding.com/))
+- 👨‍💻 Check out my personal portfolio at [stetsonharding.com](https://stetsonharding.com/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Data Structures, Algorithms, frontend development!**
 
