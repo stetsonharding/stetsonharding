@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stetson Harding</h1>
 <h3 align="center">A passionate frontend developer based out of Seattle Washington with a bachelor's degree in Computer Information Systems specialized in Web Development administration. I am looking to contribute to open source projects while continuing to learn, build, grown, and apply my knowledge with others.</h3>
 
-- 🔭 I’m currently working on [Western Chime](https://github.com/stetsonharding/western-chime)
-
 - 👨‍💻 Check out my personal portfolio at [stetsonharding.com](https://stetsonharding.com/)
 
 - 📫 How to reach me **stetson2001@msn.com**
